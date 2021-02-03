@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+[google.com](url)
 Use the left arrow to go back!
